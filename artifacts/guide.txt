@@ -1,0 +1,14 @@
+
+${env} is the variable.
+mvn clean test -Denv=STAGING
+mvn clean test -Denv=STAGING -Dsuite-xml=src/test/testng/web/testng-web.xml
+mvn clean test -Denv=STAGING -Dsuite-xml=src/test/testng/android/testng-android.xml
+mvn clean test -Denv=STAGING -Dsuite-xml=src/test/testng/ios/testng-ios.xml
+
+
+
+
+
+
+===========================================
+API Video - 2.00 hrs [Post request using file]

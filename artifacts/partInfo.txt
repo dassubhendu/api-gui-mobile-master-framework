@@ -1,0 +1,12 @@
+Part2: In this video we will create the framework by mapping config files to interface using owner library.
+Part3: In this video we will see how we can create Local Driver Factory to manage execution in Local machines
+Part4: In this video, we will see how we can manage multiple remote clouds in a framework. It is often a challenging task.
+Part5: In this video we will see how we can migrate existing code to functional style with the help of Lambdas and Method references.
+Part6: In this video, we will see how we can include code in framework to manage appium driver for both and local and remote(different cloud providers)
+Part7: In this video we will see about how we can create a factory class that can handle all the drivers for web and mobile execution.
+Part8: In this video, we will see how we can use interfaces in the test automation framework.
+Part9: In this video, I have used supplier interface implementation to optimise the existing DriverFactory class.
+Part10: In this video, we will see how we can enable parallel execution for the single automation framework using ThreadLocal.
+Part11: In this video, we will see how we can enable capabilities to switch the context from web to mobile and mobile to web.
+Part12: Handling multiple environments.
+Part13: In this video, I will create an E2E web test with proper page layer management
